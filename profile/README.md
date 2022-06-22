@@ -3,7 +3,7 @@
 Welcome to Amirkabir/CEIT Daralfonoon.
 
 <p align="center">
-  <img src="../logo.png" />
+  <img src="https://github.com/AUT-Daralfonoon/.github/blob/main/logo.png" />
 </p>
 
 ## What is Daralfonoon?
