@@ -6,4 +6,4 @@ Welcome to Amirkabir/CEIT Daralfonoon.
 It's a good place :D
 
 ## Do you like to join us?
-Just tell us.
+Just tell us by contacting @AutDarolfonoon on telegram
